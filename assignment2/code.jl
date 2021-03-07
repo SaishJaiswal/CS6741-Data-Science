@@ -32,7 +32,7 @@ end
 md"
 **CS6741: Data Science, Assignment 2**
 
-Author: Saish Jaiswal, CS20D405
+Author: Saish Jaiswal, CS20D405, cs20d405@smail.iitm.ac.in
 "
 
 # ╔═╡ 4b586b34-7c30-11eb-39c0-170f77146b89
