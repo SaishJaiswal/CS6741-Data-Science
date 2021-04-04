@@ -171,7 +171,7 @@ for n = 0:4
     println("Probability of getting at least $n Jacks (without replacement) is $prob")
 end
 
-
+#=
 ################# Plots ################# 
 N = collect(0:4)
 
@@ -194,3 +194,4 @@ savefig("AtLeastN_R.png")
 p_ALN_WR = plot(N, probAtLeastN_WR, lw=3, label="Experimental", title="At least n Jacks (without replacement)", xlabel="Number of Jacks (n)", ylabel="Probability")
 plot!(p_ALN_WR, N, probAtLeastN_WR_Theoretical, lw=3, ls=:dashdot, label="Theoretical")
 savefig("AtLeastN_WR.png")
+=#
